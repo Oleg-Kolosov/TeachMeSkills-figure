@@ -1,3 +1,3 @@
-# TeachMeSkills-figure
+# Figures
  
-##### https://oleg-kolosov.github.io/TeachMeSkills-figure/.
+[watch](https://oleg-kolosov.github.io/TeachMeSkills-figure/)
